@@ -18,7 +18,7 @@
 ## GitHub
 <p align='center'>
   <a href="https://github.com/SalehGovahi/SalehGovahi">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=myas92&show_icons=true&theme=transparent" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=SalehGovahi&show_icons=true&theme=transparent" />
 </a>
 
 <!-- <a href="https://github.com/myas92/myas92">
