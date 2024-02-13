@@ -5,7 +5,7 @@
 
 - Ask me about **Django , Linux , Python , Java**
 
-- How to reach me **saleh.govahi@gmail.com**
+- Reach me on **saleh.govahi@gmail.com**
 
 ## Connect with me:
 <p align="left">
