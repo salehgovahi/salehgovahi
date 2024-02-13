@@ -1,7 +1,7 @@
 <h1 align="center">Hello everybody , I am Mohammad Saleh Govahi</h1>
 <h3 align="center">A computer engineering student at Ferdowsi University Of Mashhad</h3>
 
-- I’m currently learning **Cloud Computing & Docker**
+- I’m currently learning **JavaScript,ReactJS and NodeJS**
 
 - Ask me about **Django , Linux , Python , Java**
 
